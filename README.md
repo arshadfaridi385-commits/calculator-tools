@@ -16,7 +16,9 @@ Available Calculators
 
 Use Free Calculator Online
 
-Use Free Age Calculator Online: https://healthcalculatorhub.com/
+- Visit Homepage: https://healthcalculatorhub.com/
+- Calculate Your Daily Water Intake: https://healthcalculatorhub.com/water-intake-calculator
+- Chipotle Burrito Nutrition Calculator: https://healthcalculatorhub.com/burrito-nutrition-calculator/
 
 Why Choose Our Calculator?
 
